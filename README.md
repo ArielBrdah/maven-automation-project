@@ -1,7 +1,3 @@
-Voici la version mise à jour du README avec des émojis pour le rendre plus vivant et attrayant :
-
----
-
 ![Image](image.png)
 
 # 🛒 Sauce Labs E-Commerce Testing Project
