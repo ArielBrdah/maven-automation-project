@@ -1,3 +1,4 @@
+[!Image](image.png)
 # Sauce Labs E-Commerce Testing Project
 
 This project demonstrates automated testing of an e-commerce website using **Java**, **Selenium**, and **TestNG**. It focuses on verifying various features, including navigating through product pages, adding items to the shopping cart, and completing the checkout process.
