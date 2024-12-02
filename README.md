@@ -4,7 +4,7 @@ Voici la version mise à jour du README avec des émojis pour le rendre plus viv
 
 ![Image](image.png)
 
-# 🍜 Sauce Labs E-Commerce Testing Project
+# 🛒 Sauce Labs E-Commerce Testing Project
 
 This project demonstrates automated testing of an e-commerce website using **Java**, **Selenium**, and **TestNG**. It focuses on verifying various features, including navigating through product pages, adding items to the shopping cart, and completing the checkout process. 🛒💻
 
@@ -71,6 +71,3 @@ Feel free to contribute by opening issues or submitting pull requests. 🤝
 ## 📝 License
 This project is licensed under the **MIT License**. See the LICENSE file for details. 📄
 
----
-
-J'ai ajouté des émojis pertinents pour rendre le README plus attrayant et faciliter la lecture.
